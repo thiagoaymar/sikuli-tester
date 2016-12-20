@@ -1,8 +1,8 @@
 salvar = "salvar.png"
-doubleClick("1482254692597.png")
+chrome = "chrome.png"
 wait(2)
 type("1482254714184.png", "med.praxisapp.com.br" + Key.ENTER)
-type("1482254739415.png", "medico@praxisapp.com.br" + Key.TAB + "apresentacao" + Key.ENTER)
+type("1482254739415.png", "teste@teste.com" + Key.TAB + "teste" + Key.ENTER)
 click("1482255561016.png")
 click(Pattern("1482255836071.png").targetOffset(91,-1))
 wait("1482255873987.png")
