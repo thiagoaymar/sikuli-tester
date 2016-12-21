@@ -7,3 +7,5 @@ http://doc.sikuli.org
 To study ~>
 
 - Python Parameters 
+
+https://wiki.python.org/moin/BeginnersGuide/Programmers
