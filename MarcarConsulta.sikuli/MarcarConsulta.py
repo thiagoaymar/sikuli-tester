@@ -1,6 +1,7 @@
 salvar = "salvar.png"
 chrome = "chrome.png"
-wait(2)
+doubleClick(chrome)
+wait("1482345154105.png")
 type("1482254714184.png", "med.praxisapp.com.br" + Key.ENTER)
 type("1482254739415.png", "teste@teste.com" + Key.TAB + "teste" + Key.ENTER)
 click("1482255561016.png")
